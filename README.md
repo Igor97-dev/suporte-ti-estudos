@@ -7,4 +7,5 @@ Suporte Técnico / Help Desk, com foco em:
 - Redes de computadores
 - Git e GitHub
 - Manutenção de computadores
+- Windows
   
