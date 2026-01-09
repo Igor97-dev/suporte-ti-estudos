@@ -8,4 +8,5 @@ Suporte Técnico / Help Desk, com foco em:
 - Git e GitHub
 - Manutenção de computadores
 - Windows
+- Consultas SQL
   
