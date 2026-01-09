@@ -3,7 +3,7 @@
 Este repositório contém minhas anotações e estudos voltados para a área de
 Suporte Técnico / Help Desk, com foco em:
 
-- Linux básico
+- Linux 
 - Redes de computadores
 - Git e GitHub
 - Manutenção de computadores
